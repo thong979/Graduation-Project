@@ -1,0 +1,13 @@
+Pillow
+opencv-python
+numpy
+requests
+Flask
+Flask-Cors
+ultralytics
+Flask-Session
+Flask-SocketIO
+labelImg
+torch
+torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
